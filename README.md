@@ -1,6 +1,7 @@
 
-### Hi there 👋
-
+### Hello I'm MinCheol, a developer who is constantly trying. 
+### 끊임없이 노력하는 개발자 민철입니다.
+### 初めまして、絶えず努力する開発者ミンチョルでございます。 :)
 <div align=center>
 	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
