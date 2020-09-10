@@ -1,6 +1,6 @@
 
 #### Hello I'm MinCheol, a developer who is constantly trying. 
-#### 끊임없이 노력하는 개발자 민철입니다.
+#### 끊임없이 노력하는 개발자 김민철입니다. :)
 
 
 
