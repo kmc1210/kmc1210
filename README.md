@@ -1,7 +1,7 @@
 
 #### Hello I'm MinCheol, a developer who is constantly trying. 
 #### 끊임없이 노력하는 개발자 민철입니다.
-#### 初めまして、絶えずに努力する開発者ミンチョルでございます。 :)
+
 
 
 
