@@ -1,14 +1,15 @@
+
+#### Hello I'm MinCheol, a developer who is constantly trying. 
+#### 끊임없이 노력하는 개발자 민철입니다.
+#### 初めまして、絶えずに努力する開発者ミンチョルでございます。 :)
+
+
 <div align=left>	
  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmc1210&count_bg=%23ACE4A5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
  <br>
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:skmnzn@gmail.com)](mailto:skmnzn@gmail.com)
 	
 </div>
-#### Hello I'm MinCheol, a developer who is constantly trying. 
-#### 끊임없이 노력하는 개발자 민철입니다.
-#### 初めまして、絶えずに努力する開発者ミンチョルでございます。 :)
-
-
 
 
 <!--
