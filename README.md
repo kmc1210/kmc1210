@@ -6,7 +6,7 @@
 
 
 <div align=left>	
- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmc1210)](https://hits.seeyoufarm.com) 
+	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:skmnzn@gmail.com)](mailto:skmnzn@gmail.com)
 	
 </div>
