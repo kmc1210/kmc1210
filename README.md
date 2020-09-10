@@ -12,7 +12,7 @@
 	
 	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=plastic-square&logo=Gmail&logoColor=white&link=mailto:skmnzn@gmail.com)](mailto:skmnzn@gmail.com)
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=plastic-square&logo=github&link=https://https://nyong-nyongs.tistory.com/)](https://https://nyong-nyongs.tistory.com/) <a href="https://instagram.com/bigkongs">
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=plastic-square&logo=github&link=https://nyong-nyongs.tistory.com/)](https://nyong-nyongs.tistory.com/) <a href="https://instagram.com/bigkongs">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/bigkongs/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
